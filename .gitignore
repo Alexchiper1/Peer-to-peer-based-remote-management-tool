@@ -1,0 +1,22 @@
+# ignore everything
+*
+
+# allow python files
+!*.py
+
+# allow gitignore itself
+!.gitignore
+
+# ignore cache folders
+__pycache__/
+*.pyc
+
+# ignore images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# ignore other common junk
+*.txt
+*.log
